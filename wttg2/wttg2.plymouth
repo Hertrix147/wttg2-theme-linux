@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=WelcomeToTheGame
+Description={{Description}}
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/wttg2
+ScriptFile=/usr/share/plymouth/themes/wttg2/animated-boot.script
